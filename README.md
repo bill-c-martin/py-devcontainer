@@ -4,12 +4,12 @@ Devcontainer for python development in VS Code, with a sample flask app to verif
 
 - Docker
 - VS Code
-- "Dev Containers" V Code extension
+- "Dev Containers" VS Code extension
 
 ## Instructions
 
-1. Clone the above repo, which you forked, to your localhost
-2. Open the repo in VS Code and click the "Reopen in Container" button that pops up
+1. Clone this repo
+2. Open this repo in VS Code and click the "Reopen in Container" button that pops up
 
 > **Note:**
 > Or run `Dev Containers: Open Folder in Container...` in the command palette (`Ctrl+Shift+P`)
